@@ -1,4 +1,4 @@
-# CS465
+# CS465 - Travlr Getaways
 
 This course provided invaluable insights into full stack development by reinforcing my ability to design and deploy secure web applications. The experience of building Travlr Getaways expanded my knowledge of the MEAN stack and highlighted best practices in API design, user authentication, and frontend/backend integration. I gained hands-on experience with modular design through Angular components and strengthened my understanding of Node.js and MongoDB for efficient data handling.
 
